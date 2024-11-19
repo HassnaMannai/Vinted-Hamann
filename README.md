@@ -1,1 +1,1 @@
-# vinted-hamann
+# Vinted-Hamann
